@@ -1,0 +1,1000 @@
+ 1212  sudo adduser al{1..10}
+ 1213  ls
+ 1214  clear
+ 1215  sudo adduser alev
+ 1216  sudo groupadd ds
+ 1217  ls
+ 1218  cd /
+ 1219  ls
+ 1220  cd etc
+ 1221  ls
+ 1222  cd
+ 1223  clear
+ 1224  groups
+ 1225  groups misafir
+ 1226  groups ahmet
+ 1227  groups ahmett
+ 1228  groups ahmettt
+ 1229  groups ahmetttt
+ 1230  cat /etc/group
+ 1231  sudo addgroup dew
+ 1232  sudo addgroup fs
+ 1233  cat /etc/group
+ 1234  sudo usermod -aG fs ahmet
+ 1235  cat /etc/group
+ 1236  sudo usermod -aG dew ahmett
+ 1237  cat /etc/group
+ 1238  sudo usermod -aG ds ahmettt
+ 1239  cat /etc/group
+ 1240  sudo usermod -aG ds alev
+ 1241  cat /etc/group
+ 1242  sudo usermod -aG fs bekir
+ 1243  sudo usermod -aG fs bekirr
+ 1244  cat /etc/group
+ 1245  id bekirr
+ 1246  sudo usermod -aG sudo alev
+ 1247  groups
+ 1248  id alev
+ 1249  groups alev
+ 1250  sudo members
+ 1251  members
+ 1252  sudo apt install members
+ 1253  members
+ 1254  members ds
+ 1255  members dew
+ 1256  members fs
+ 1257  members alev
+ 1258  cd /
+ 1259  cd etc/#
+ 1260  cd etc/
+ 1261  ls -l
+ 1262  ls -l group
+ 1263  cat group
+ 1264  cat hostname 
+ 1265  cat "admin">hostname
+ 1266  echo "admin">hostname
+ 1267  sudo echo "admin">hostname
+ 1268  sudo cat "admin">hostname
+ 1269  vim
+ 1270  cd
+ 1271  vim
+ 1272  ls
+ 1273  cat derselerrrr.txt 
+ 1274  clear
+ 1275  wim
+ 1276  vim
+ 1277  ls
+ 1278  nano a
+ 1279  clear
+ 1280  info wim
+ 1281  info vim
+ 1282  nano
+ 1283  sudo apt nano
+ 1284  sudo apt install nano
+ 1285  nano
+ 1286  ls
+ 1287  nano aaaaaaaa
+ 1288  ls > dirlist 2>&1
+ 1289  nano aaaaaaaa
+ 1290  clear
+ 1291  -cat << ADDTEXT
+ 1292  heyyyyy
+ 1293  naberrr
+ 1294  nasil gidiyor
+ 1295  isler
+ 1296  cat ADDTEXT
+ 1297  -cat << ADDTEXT
+ 1298  heyyyyy
+ 1299  naberrr
+ 1300  nasil gidiyor
+ 1301  isler
+ 1302  a
+ 1303  -cat << ADDTEXT
+ 1304  heyyyyy
+ 1305  naberrr
+ 1306  nasil gidiyor
+ 1307  isler
+ 1308  -cat << ADDTEXT
+ 1309  heyyyyy
+ 1310  naberrr
+ 1311  nasil gidiyor
+ 1312  isler
+ 1313  a
+ 1314  -cat << ADDTEXT
+ 1315  heyyyyy
+ 1316  naberrr
+ 1317  nasil gidiyor
+ 1318  isler
+ 1319  ls
+ 1320  cat a
+ 1321  rm aaaaaaa
+ 1322  rm aaaaaaaa
+ 1323  ls
+ 1324  cat bak.txt 
+ 1325  cat derselerrrr.txt 
+ 1326  rm derselerrrr.txt 
+ 1327  tree
+ 1328  rm - liste
+ 1329  rm  liste
+ 1330  rm -r liste
+ 1331  tree
+ 1332  rm d
+ 1333  rm my
+ 1334  rm file2.txt 
+ 1335  tree
+ 1336  car dirlist 
+ 1337  sudo apt install ucommon-utils
+ 1338  tree
+ 1339  clear
+ 1340  tree
+ 1341  cat dirlist 
+ 1342  wc -l bak.txt | tee -a file3.txt 
+ 1343  cat file3.txt 
+ 1344  cat bak.txt 
+ 1345  tree
+ 1346  ls -l ~ > ls.tmp
+ 1347  tree
+ 1348  cat ls.tmp 
+ 1349  ls -l ~ | mail -s "Home directory" info@markbain-writer.tk 
+ 1350  sudo apt install mailutils
+ 1351  ls -l ~ | mail -s "Home directory" lyildirim.3017@gmail.com
+ 1352  clear
+ 1353  grep -v "^d"
+ 1354  tree
+ 1355  cat dead.letter 
+ 1356  qwk '{print $5, $8, $6, $7}'
+ 1357  sudo apt install awk
+ 1358  sudo apt-get  update 
+ 1359  sudo apt install awk
+ 1360  sudo apt install original-awk
+ 1361  qwk '{print $5, $8, $6, $7}'
+ 1362  awk '{print $5, $8, $6, $7}'
+ 1363  clear
+ 1364  cat << ASPEN
+ 1365  This is my text
+ 1366  ASPEN
+ 1367  vi mylink 
+ 1368  tree
+ 1369  vi file1.txt 
+ 1370  sed SCRIPT INPUTFILE...
+ 1371  sed 's/hello/world/' input.txt > output.txt
+ 1372  ls
+ 1373  cat file1.txt 
+ 1374  sed 's/are/is/' file1.txt > output.txt
+ 1375  clear
+ 1376  cat output.txt 
+ 1377  sed 's/are/is/' file1.txt > outputt.txt
+ 1378  cat outputt.txt 
+ 1379  clear
+ 1380  sed 's/are/is/' < file1.txt > outputt.txt
+ 1381  cat outputt.txt 
+ 1382  cat mylink 
+ 1383  tre
+ 1384  tree
+ 1385  cat ls.tmp 
+ 1386  sed 's/latif/ise/' ls.tmp > outputt.txt
+ 1387  cat outputt.txt 
+ 1388  sed 's/latif/ise/' < ls.tmp > outputt.txt
+ 1389  cat outputt.txt 
+ 1390  sed 's/ise/latif/' < ls.tmp > outputt.txt
+ 1391  cat outputt.txt 
+ 1392  clear
+ 1393  cat ls.tmp | sed 's/latif/ise/' - > outputt.txt 
+ 1394  cat outputt.txt 
+ 1395  sed -i 's/ise/latif/'   outputt.txt
+ 1396  cat outputt.txt 
+ 1397  sed -n '45p'   outputt.txt
+ 1398  cat outputt.txt 
+ 1399  sed -n '5p'   outputt.txt
+ 1400  sed -n '1p'   outputt.txt
+ 1401  sed -n '1p ; $p'   outputt.txt mylink  file1.txt 
+ 1402  cat /etc/passwd
+ 1403  clear
+ 1404  vi 
+ 1405  grep daemon.*nologin /etc/passwd
+ 1406  ls -l
+ 1407  cat output.txt 
+ 1408  ls -l
+ 1409  vi newfile.txt
+ 1410  cat newfile.txt 
+ 1411  gawk 'BEGIN {FS=","};{print $0}' newfile.txt 
+ 1412  gawk 'BEGIN {FS=","};{print $1}' newfile.txt 
+ 1413  gawk 'BEGIN {FS=","};{print $2}' newfile.txt 
+ 1414  gawk 'BEGIN {FS=","};{print $3}' newfile.txt 
+ 1415  gawk 'BEGIN {FS=","};{print $0}' newfile.txt 
+ 1416  clear
+ 1417  gawk 'BEGIN {FS=","};{print $0}' newfile.txt 
+ 1418  gawk 'BEGIN {FS=","};{print $1}' newfile.txt 
+ 1419  wi newfile.txt 
+ 1420  vi newfile.txt 
+ 1421  gawk 'BEGIN {FS=","};{print $1}' newfile.txt 
+ 1422  gawk 'BEGIN {FS=","};{print $0}' newfile.txt 
+ 1423  gawk 'BEGIN {FS=","};{print $2}' newfile.txt 
+ 1424  gawk 'BEGIN {FS=","};{print $3}' newfile.txt 
+ 1425  gawk 'BEGIN {FS=","};{print $2}' newfile.txt 
+ 1426  gawk 'BEGIN {FS=","};{print $2};{print $4}' newfile.txt 
+ 1427  clear
+ 1428  cat file1.txt | less
+ 1429  cat mylink | less
+ 1430  sudo adduser bekir
+ 1431  sudo adduser bekirr
+ 1432  ls
+ 1433  cd ..
+ 1434  ls
+ 1435  sudo userdel -r hp
+ 1436  sudo userdel -r bekir
+ 1437  ls
+ 1438  su bekir
+ 1439  su bekirr
+ 1440  ls
+ 1441  clear
+ 1442  ls
+ 1443  rm - r aaaaaaaa.save 
+ 1444  rm -r aaaaaaaa.save 
+ 1445  rm  aaaaaaaa.save 
+ 1446  ls
+ 1447  rm dead.letter 
+ 1448  rm bak.txt 
+ 1449  rm dirlist 
+ 1450  rm ls.tmp 
+ 1451  rm output.txt 
+ 1452  rm outputt.txt 
+ 1453  ls
+ 1454  rm file3.txt 
+ 1455  rm newfile.txt 
+ 1456  ls
+ 1457  cat "ahbe" > t.txt
+ 1458  cat "ahbe" >> t.txt
+ 1459  ls
+ 1460  cat t.txt 
+ 1461  cat <t.txt> "heyy" 
+ 1462  cat t.txt 
+ 1463  clear
+ 1464  ping
+ 1465  ping google.com
+ 1466  ping clarusway.com
+ 1467  ping -c 5 clarusway.com
+ 1468  tilde script.sh
+ 1469  sudo apt install tilde
+ 1470  tilde script.sh
+ 1471  ls
+ 1472  ./script.sh
+ 1473  chmod 777 script.sh 
+ 1474  ./script.sh
+ 1475  ls -l
+ 1476  tilde script.sh
+ 1477  ./script.sh
+ 1478  ls
+ 1479  tilde script.sh
+ 1480  ./script.sh
+ 1481  tilde script.sh
+ 1482  ./script.sh
+ 1483  tilde script.sh
+ 1484  ./script.sh
+ 1485  ls
+ 1486  cd scriptdeneme/
+ 1487  ls
+ 1488  *
+ 1489  tilde script.sh
+ 1490  ./script.sh
+ 1491  tilde script.sh
+ 1492  script.sh
+ 1493  ./script.sh
+ 1494  tilde script.sh 
+ 1495  tilde
+ 1496  ./script.sh 
+ 1497  ./script2.sh 
+ 1498  tilde script2.sh 
+ 1499  ./script2.sh
+ 1500  x
+ 1501  clear
+ 1502  ssh latif58675@161.35.171.207
+ 1503  cd /
+ 1504  cd bin
+ 1505  ls
+ 1506  clear
+ 1507  ./ls
+ 1508  cd ~
+ 1509  clear
+ 1510  cd ../.. 
+ 1511  ls
+ 1512  cd
+ 1513  ls
+ 1514  tree
+ 1515  cd ~/Documents/python-examples
+ 1516  cöear
+ 1517  clear
+ 1518  vim
+ 1519  ls
+ 1520  tree
+ 1521  rm t.txt  script.sh  script2.sh scriptdeneme/
+ 1522  ls
+ 1523  tree
+ 1524  rm -rf file1.txt  mylink scriptdeneme/
+ 1525  tree
+ 1526  rm -rf file1.txt  mylink scriptdeneme/ heyy
+ 1527  tree
+ 1528  vim example.txt 
+ 1529  clear
+ 1530  alien 
+ 1531  sudo apt update 
+ 1532  sudo apt upgrade
+ 1533  sudo yum update 
+ 1534  sudo yum update
+ 1535  pip install pandas
+ 1536  sudo apt upgrade nano
+ 1537  sudo upgrade vim
+ 1538  sudo apt update
+ 1539  sudo apt install vim
+ 1540  nano myprogram.py
+ 1541  ls
+ 1542  python3 myprogram.py 
+ 1543  ../user
+ 1544  ~
+ 1545  cd ~
+ 1546  ls
+ 1547  cd /
+ 1548  ls
+ 1549  cd usr
+ 1550  ls
+ 1551  cd
+ 1552  ls /usr
+ 1553  cd /media
+ 1554  cd
+ 1555  cd ..
+ 1556  ls
+ 1557  /
+ 1558  cd /
+ 1559  cd ~
+ 1560  ls
+ 1561  clear
+ 1562  unaem
+ 1563  uname
+ 1564  uname -s -r
+ 1565  uname -s 
+ 1566  uname -v
+ 1567  df -h ~
+ 1568  df -h 
+ 1569  ps -u root
+ 1570  top -n 3
+ 1571  date
+ 1572  date "+%j day of %Y"
+ 1573  man id
+ 1574  clear
+ 1575  ls
+ 1576  echo Example.txt 
+ 1577  ls
+ 1578  touch Example.txt 
+ 1579  ls
+ 1580  ~
+ 1581  tree
+ 1582  clear
+ 1583  find . -name "example.txt"
+ 1584  find . -iname "example.txt"
+ 1585  ps -u root
+ 1586  top -n 3
+ 1587  top -n 1
+ 1588  top -n 7
+ 1589  date "+%j day of %Y"lear
+ 1590  clear
+ 1591  rm empty_folder
+ 1592  date -r notes.txt
+ 1593  date
+ 1594  date -r notes.txt
+ 1595  touch notes.txt
+ 1596  date -r notes.txt
+ 1597  ls
+ 1598  tree
+ 1599  mv myprogram.py b a
+ 1600  ls
+ 1601  mkdir c
+ 1602  mv c b a
+ 1603  ls
+ 1604  b
+ 1605  cd b
+ 1606  ls
+ 1607  tree
+ 1608  cd
+ 1609  cd a
+ 1610  ls
+ 1611  mv c history.txt  myprogram.py .
+ 1612  ls
+ 1613  mv - r c history.txt  myprogram.py .
+ 1614  mv -r c history.txt  myprogram.py .
+ 1615  ls
+ 1616  mv c history.txt  myprogram.py ~
+ 1617  ls
+ 1618  ~
+ 1619  cd
+ 1620  ls
+ 1621  ps
+ 1622  clear
+ 1623  ps -e
+ 1624  ps -u root
+ 1625  ps -u
+ 1626  ps -u root
+ 1627  ps 
+ 1628  echo -e "This will be printed \nin two lines"
+ 1629  wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/module%201/usdoi.txt
+ 1630  cat usdoi.txt 
+ 1631  clear
+ 1632  ls
+ 1633  cat numbers.txt
+ 1634  cat > pats.txt
+ 1635  sort pats.txtt
+ 1636  sort pats.txt
+ 1637  cat >> pats.txt
+ 1638  sort pats.txt
+ 1639  uniq pats.txt 
+ 1640  grep o  pats.txt 
+ 1641  grep o ch pats.txt 
+ 1642  grep -i o pats.txt 
+ 1643  cat > people.txt
+ 1644  grep -i bil pats.txt 
+ 1645  grep bil pats.txt 
+ 1646  grep -i bil people.txt 
+ 1647  grep bil people.txt 
+ 1648  cut -c 2-9 people.txt 
+ 1649  cat  -d " " -f2 people.txt 
+ 1650  cat  -d ' ' -f2 people.txt 
+ 1651  cut  -d ' ' -f2 people.txt 
+ 1652  cat > last.txt
+ 1653  cat > first.txt
+ 1654  paste first.txt last.txt 
+ 1655  cat  first.txt
+ 1656  paste -d "," first.txt last.txt 
+ 1657  sort pats.txt 
+ 1658  sort -r pats.txt 
+ 1659  ls
+ 1660  ls -R
+ 1661  tree
+ 1662  cd a
+ 1663  ls -R
+ 1664  tar -cf notes.tar notes
+ 1665  tar -cf notes.tar b
+ 1666  ls
+ 1667  tar -czf notes.tar.gz b
+ 1668  ls
+ 1669  tar -tf notes.tar
+ 1670  tar -xf notes.tar a
+ 1671  tar -xf notes.tar b
+ 1672  ls
+ 1673  tar -xf notes.tar b
+ 1674  ls
+ 1675  ls b
+ 1676  ls
+ 1677  cd b
+ 1678  ls
+ 1679  cd ..
+ 1680  ls -R
+ 1681  tar -xf notes.tar b
+ 1682  ls -R
+ 1683  rm notes.tar notes.tar.gz 
+ 1684  cd ..
+ 1685  ls
+ 1686  tree
+ 1687  cp a b
+ 1688  cp -r a b
+ 1689  tree
+ 1690  cd b
+ 1691  ls
+ 1692  clear
+ 1693  ls
+ 1694  tree
+ 1695  tar -cf a.tar a
+ 1696  ls
+ 1697  tar -czf a.tar.gz a
+ 1698  ls
+ 1699  tar -tf a.tar
+ 1700  ls
+ 1701  ls -R
+ 1702  tar -tf a.tar
+ 1703  tar -xf notes.tar a
+ 1704  tar -xf a.tar a
+ 1705  ls
+ 1706  cledar
+ 1707  clear
+ 1708  tar -xf a.tar a
+ 1709  ls -R
+ 1710  rm a
+ 1711  rm -r a
+ 1712  ls
+ 1713  tar -xf a.tar a
+ 1714  ls
+ 1715  rm -r a
+ 1716  tar -xzf a.tar.gz a 
+ 1717  ls
+ 1718  clear
+ 1719  ls
+ 1720  rm -r a
+ 1721  tar -xzf a.tar.gz a 
+ 1722  rm -r a.tar a.tar.gz 
+ 1723  ls
+ 1724  zip a.zip a
+ 1725  sudo apt install zip
+ 1726  zip a.zip a
+ 1727  clear
+ 1728  ls
+ 1729  rm -r a
+ 1730  unzip a.zip 
+ 1731  ls
+ 1732  clera
+ 1733  clear
+ 1734  hostname
+ 1735  hostname -s
+ 1736  ~
+ 1737  CD
+ 1738  ~
+ 1739  cd
+ 1740  hostname 
+ 1741  whoami
+ 1742  hostname
+ 1743  hostname -s
+ 1744  hostname -S
+ 1745  hostname -i
+ 1746  ifconfig 
+ 1747  ifconfig eth0
+ 1748  ping google.com
+ 1749  ping -c google.com
+ 1750  ping -c 5 google.com
+ 1751  curl google.com
+ 1752  curl www.google.com
+ 1753  clear
+ 1754  curl www.google.com -o google.txt
+ 1755  head -n 1 google.txt 
+ 1756  head -n 2 google.txt 
+ 1757  head -n 1 google.txt 
+ 1758  clear
+ 1759  head -n 1 google.txt 
+ 1760  wget https://www.w3.org/TR/PNG/iso_8859-1.txt
+ 1761  wget https://www.w3.org/TR/PNG/iso_8859-2.txt
+ 1762  ls
+ 1763  cd a
+ 1764  wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/module%201/zoo.txt
+ 1765  wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/module%201/zoo_ages.txt
+ 1766  curl https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Bash%20Scripting/usdoi.txt
+ 1767  curl -O https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Bash%20Scripting/usdoi.txt
+ 1768  /
+ 1769  pwd
+ 1770  cd /
+ 1771  pwd
+ 1772  ls
+ 1773  clear
+ 1774  cat> pets.txt
+ 1775  sort pets.txt
+ 1776  uniq pets.txt
+ 1777  sort pets.txt | uniq
+ 1778  cat pets.txt | tr "aeio" "__"
+ 1779  cat pets.txt | tr -c "aeio" "__"
+ 1780  cat pets.txt | tr "[a-z]" "[A-Z]"
+ 1781  sort pets.txt | uniq | tr "[a-z]" "[A-Z]
+ 1782  sort pets.txt | uniq | tr "[a-z]" "[A-Z]
+ 1783  $ curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD
+ 1784  {   "coin": {;     "id": "bitcoin",;     "icon": "https://static.coinstats.app/coins/Bitcoin6l39t.png",;     "name": "Bitcoin",;     "symbol": "BTC",;     "rank": 1,;     "price": 57907.78008618953,;     "priceBtc": 1,;     "volume": 48430621052.9856,;     "marketCap": 1093175428640.1146,;     "availableSupply": 18877868,;     "totalSupply": 21000000,;     "priceChange1h": -0.19,;     "priceChange1d": -0.4,;     "priceChange1w": -9.36,;     "websiteUrl": "http://www.bitcoin.org",;     "twitterUrl": "https://twitter.com/bitcoin",;     "exp": [;       "https://blockchair.com/bitcoin/",;       "https://btc.com/",;       "https://btc.tokenview.com/";     ];   }
+ 1785  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD
+ 1786  $ curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD
+ 1787  {   "coin": {;     "id": "bitcoin",;     "icon": "https://static.coinstats.app/coins/Bitcoin6l39t.png",;     "name": "Bitcoin",;     "symbol": "BTC",;     "rank": 1,;     "price": 57907.78008618953,;     "priceBtc": 1,;     "volume": 48430621052.9856,;     "marketCap": 1093175428640.1146,;     "availableSupply": 18877868,;     "totalSupply": 21000000,;     "priceChange1h": -0.19,;     "priceChange1d": -0.4,;     "priceChange1w": -9.36,;     "websiteUrl": "http://www.bitcoin.org",;     "twitterUrl": "https://twitter.com/bitcoin",;     "exp": [;       "https://blockchair.com/bitcoin/",;       "https://btc.com/",;       "https://btc.tokenview.com/";     ];   }
+ 1788  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*"
+ 1789  $ curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*"
+ 1790  $ curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*"
+ 1791  clear
+ 1792  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*"
+ 1793  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "[0-9]*?\.[0-9]*"
+ 1794  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*""[0-9]*?\.[0-9]*"
+ 1795  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*""[0-9]*?\.[0-9]*" | "[0-9]*?\.[0-9]*"
+ 1796  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*""[0-9]*?\.[0-9]*" | grep -oE "[0-9]*?\.[0-9]*"
+ 1797  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*" |curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*""[0-9]*?\.[0-9]*" | grep -oE "[0-9]*?\.[0-9]*"
+ 1798  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*" |\ 
+ 1799  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*" |\ grep -oE "[0-9]*?\.[0-9]*"
+ 1800  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*" |    grep -oE "[0-9]*?\.[0-9]*"
+ 1801  curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*" |    grep -oE "[0-9]*\.[0-9]"
+ 1802  $ curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*" |    grep -oE "[0-9]*?\.[0-9]*"
+ 1803  $ curl -s --location --request GET https://api.coinstats.app/public/v1/coins/bitcoin\?currency\=USD |    grep -oE "\"price\":\s*[0-9]*?\.[0-9]*" |    grep -oE "[0-9]*?\.[0-9]*"
+ 1804  57907.78008618953
+ 1805  clear
+ 1806  ls
+ 1807  tree
+ 1808  rm -r example.txt google.txt history.txt last.txt myprogram.py notes.txt people.txt pats.txt 
+ 1809  ls
+ 1810  tree
+ 1811  rm -r history.txt 
+ 1812  sudo rm history.txt 
+ 1813  tree
+ 1814  cat first.txt 
+ 1815  sudo
+ 1816  tree
+ 1817  cat usdoi.txt 
+ 1818  tree
+ 1819  clear
+ 1820  garbace
+ 1821  garbace 2> err.txt
+ 1822  cat err.txt 
+ 1823  a=$(pwd)
+ 1824  a
+ 1825  echo $a
+ 1826  curl <url>
+ 1827  ls
+ 1828  $ tr “[a-z]” “[A-Z]” < pets.txt
+ 1829  tr “[a-z]” “[A-Z]” < pets.txt
+ 1830  ls
+ 1831  tree
+ 1832  rm -r c
+ 1833  tree
+ 1834  rm -r a/b/permission/
+ 1835  tree
+ 1836  ls -l
+ 1837  sudi apt firefox
+ 1838  sudi apt install firefox
+ 1839  $ cat test_example.sh
+ 1840  a=1
+ 1841  b=2
+ 1842  if test $a -lt $b; then     echo "a is less than b"; fi
+ 1843  $ sh test_example.sh
+ 1844  la
+ 1845  ls
+ 1846  ls a
+ 1847  ls l
+ 1848  ls a
+ 1849  la
+ 1850  ls
+ 1851  dir
+ 1852  la
+ 1853  man la
+ 1854  man ls
+ 1855  git --version
+ 1856  clesr
+ 1857  git config --global user.name
+ 1858  git config --global
+ 1859  git config --list
+ 1860  git config --global user.name "yildirimlatif"
+ 1861  git config --global user.email "lyildirim.3017@gmail.com"
+ 1862  git config --list
+ 1863  ls -all
+ 1864  vim .gitconfig 
+ 1865  mkdir gitfirstprj
+ 1866  ls
+ 1867  cd gitfirstprj/
+ 1868  git init
+ 1869  ls
+ 1870  ls -a
+ 1871  ls -al
+ 1872  ls -l
+ 1873  touch gitdeneme.txt
+ 1874  git status
+ 1875  git add gitdeneme.txt 
+ 1876  git status
+ 1877  git commit firstcommit
+ 1878  git commit -m firstcommit
+ 1879  tilde gitdeneme.txt 
+ 1880  git status
+ 1881  git checkout -m firstcommit
+ 1882  git commit -m firstcommit2
+ 1883  git add gitdeneme.txt 
+ 1884  git checkout  firstcommit
+ 1885  git commit -m firstcommit2
+ 1886  git checkout  firstcommit
+ 1887  clear
+ 1888  git status 
+ 1889  git s
+ 1890  git checkout  firstcommit
+ 1891  git add gitdeneme.txt 
+ 1892  git status 
+ 1893  git log
+ 1894  git checkout  21caf440a8f494fcb440a2745a3c7a6a2b734693
+ 1895  git checkout "firstcommit2"
+ 1896  git log
+ 1897  git checkout  21c
+ 1898  git checkout  21caf4
+ 1899  git checkout  21caf440a8f494fcb440a2745a3c7a6a2b734693
+ 1900  git log
+ 1901  git checkout cb9568d695bac8d5a715f02be1be73be28471dcf
+ 1902  git log
+ 1903  tilde gitdeneme.txt 
+ 1904  git checkout  21caf440a8f494fcb440a2745a3c7a6a2b734693
+ 1905  tilde gitdeneme.txt 
+ 1906  mkdir git1
+ 1907  ls
+ 1908  cd git1
+ 1909  ls
+ 1910  ls -al
+ 1911  clear
+ 1912  ls -al
+ 1913  cd ..
+ 1914  ls -al
+ 1915  git add .
+ 1916  cd git1
+ 1917  ls -al
+ 1918  git add .
+ 1919  ls -al
+ 1920  tocuh A.txt
+ 1921  touch A.txt
+ 1922  ls -al
+ 1923  cd .
+ 1924  cd .,
+ 1925  cd .
+ 1926  cd ..
+ 1927  ls -al
+ 1928  git add git1/
+ 1929  cd git1/
+ 1930  ls -al
+ 1931  git add A.txt 
+ 1932  git status 
+ 1933  git commit -m first
+ 1934  git status 
+ 1935  git log
+ 1936  tilde  A.txt 
+ 1937  cat A.txt 
+ 1938  git status
+ 1939  tousch b.txt
+ 1940  touch b.txt
+ 1941  git status
+ 1942  git log
+ 1943  git commit -m 3
+ 1944  git commit -m uc
+ 1945  git add b.txt 
+ 1946  git commit -m uc
+ 1947  git log
+ 1948  git log tree
+ 1949  git log --graph
+ 1950  git status
+ 1951  tilde A.txt 
+ 1952  git log
+ 1953  git status
+ 1954  git add A.txt 
+ 1955  git status
+ 1956  git commit -m  dort
+ 1957  git log
+ 1958  git commit -r  dort
+ 1959  ls
+ 1960  rm b.txt 
+ 1961  ls
+ 1962  git log
+ 1963  git checkout uc
+ 1964  git checkout 9316ad
+ 1965  git status 
+ 1966  git log
+ 1967  git log --all
+ 1968  ls
+ 1969  cat A.txt 
+ 1970  git checkout cb9568d695bac8d5a715f02be1be73be28471dcf
+ 1971  ls
+ 1972  git log --graph
+ 1973  git log 
+ 1974  git status
+ 1975  git checkut dort
+ 1976  git status
+ 1977  git log
+ 1978  clear
+ 1979  git log -all
+ 1980  git log --all
+ 1981  git checkout 2ed3fe7a5aa17134549fbd5b417abcd776f54c87
+ 1982  cd
+ 1983  git log -all
+ 1984  git config --list
+ 1985  git log --all
+ 1986  git status
+ 1987  pip list
+ 1988  pip install requests
+ 1989  git log
+ 1990  git --log
+ 1991  git status
+ 1992  cd /cd
+ 1993  cd /home/
+ 1994  ls
+ 1995  cd latif/
+ 1996  git log
+ 1997  git init
+ 1998  ls
+ 1999  mkdir project-4
+ 2000  cd project-
+ 2001  cd project-4
+ 2002  git init
+ 2003  ls
+ 2004  ls -la
+ 2005  touch file1
+ 2006  ls
+ 2007  git add .
+ 2008  git -m commit file1 added
+ 2009  git status
+ 2010  git --verison
+ 2011  git commit -m file1 added
+ 2012  git commit -m file1_added
+ 2013  git status
+ 2014  git --verison
+ 2015  git --log -all
+ 2016  git --log --all
+ 2017  git config
+ 2018  git config --list
+ 2019  git checkout 
+ 2020  git checkout --all
+ 2021  git checkout
+ 2022  git log
+ 2023  touch file2
+ 2024  git commit
+ 2025  git add
+ 2026  git add .
+ 2027  git commit
+ 2028  git log
+ 2029  git commit -m file2 added
+ 2030  git commit -m file2_added
+ 2031  git log
+ 2032  touch file3
+ 2033  git add .
+ 2034  git commit -m file3_added
+ 2035  git log
+ 2036  ls
+ 2037  rm file2
+ 2038  ls
+ 2039  git add .
+ 2040  git commit -m "file2 removed "
+ 2041  git log
+ 2042  git checkout 2f965a870ec08f6c314678680bce189a5d875b55
+ 2043  git log
+ 2044  git checkout 2f965a
+ 2045  git log
+ 2046  git checkout a45badd6338fc388de64c83dee92977cde9249d1
+ 2047  git log
+ 2048  git checkout 2f965a
+ 2049  git log
+ 2050  git checkout a45badd6338fc388de64c83dee92977cde9249d1
+ 2051  git log
+ 2052  git checkout 2f965a870ec08f6c314678680bce189a5d875b55
+ 2053  git log --all --graph
+ 2054  ls 
+ 2055  git log
+ 2056  git log all
+ 2057  git log --all
+ 2058  git log --all --graph
+ 2059  git checkout 
+ 2060  $ git config --list
+ 2061  git config --list
+ 2062  git config --local --list
+ 2063  git config --system --list
+ 2064  git /etc/gitconfig --system --list
+ 2065  git /etc/config --system --list
+ 2066  git config --global color.ui auto
+ 2067  tilde file1
+ 2068  touch file1
+ 2069  tilde file1
+ 2070  cat file1
+ 2071  git commit -m "tilde degisikligi"
+ 2072  git add .
+ 2073  git commit -m "tilde degisikligi"
+ 2074  git checkout cb99548a815d27ade3b85537d4e3b338e4c8fd6c
+ 2075  git lo
+ 2076  git log
+ 2077  git log -all
+ 2078  git log --all
+ 2079  git checkout 2f965a870ec08f6c314678680bce189a5d875b55
+ 2080  git log --all
+ 2081  git checkout 134fad4
+ 2082  git log --all
+ 2083  git log --all --graph
+ 2084  git diff
+ 2085  git grep "Hello"
+ 2086  git grep "Hello" v2.5
+ 2087  clear
+ 2088  git log --all --graph
+ 2089  ls
+ 2090  cd ..
+ 2091  ls
+ 2092  mkdir samplemaerge
+ 2093  ls
+ 2094  cd samplemaerge/
+ 2095  git init
+ 2096  ls -al
+ 2097  git commit -m startpoint
+ 2098  git add .
+ 2099  git commit -m startpoint
+ 2100  git log --all
+ 2101  touch ilk
+ 2102  git add .
+ 2103  git commit -m startpoint
+ 2104  git log --all --graph
+ 2105  touch ikinci
+ 2106  git add .
+ 2107  git commit -m master-2
+ 2108  git log --all --graph
+ 2109  git branch dev
+ 2110  git checkout master
+ 2111  git log --all --graph
+ 2112  git commit master-3
+ 2113  git add .
+ 2114  git log --all --graph
+ 2115  git commit master-3
+ 2116  git commit -m master-3
+ 2117  git log --all --graph
+ 2118  ls
+ 2119  touch uc
+ 2120  git add .
+ 2121  git commit  -m master-3
+ 2122  git log --all --graph
+ 2123  git checkout dev
+ 2124  git log --all --graph
+ 2125  touch dev-1
+ 2126  git add .
+ 2127  git commit -m dev-1
+ 2128  git log --all --graph
+ 2129  git checkout master
+ 2130  git log --all --graph
+ 2131  git checkout dev
+ 2132  git log --all --graph
+ 2133  git add .
+ 2134  git commit -m dev-2
+ 2135  touch file2
+ 2136  git add .
+ 2137  git commit -m dev-2
+ 2138  git log --all --graph
+ 2139  git checkout master
+ 2140  git log --all --graph
+ 2141  touch file4
+ 2142  git add .
+ 2143  git commit -m master-4
+ 2144  git log --all --graph
+ 2145  ls
+ 2146  git checkout dev
+ 2147  git log --all --graph
+ 2148  git checkout master
+ 2149  git log --all --graph
+ 2150  git branch test
+ 2151  git merge dev -m "master ile dev birlesimi"
+ 2152  git log --all --graph
+ 2153  ls
+ 2154  git checkout dev
+ 2155  ls
+ 2156  git --log
+ 2157  git log
+ 2158  git checkout test
+ 2159  git log --all --graph
+ 2160  touch test-1
+ 2161  git add .
+ 2162* 
+ 2163  git log --all --graph
+ 2164  git commit -m test-1
+ 2165  git log --all --graph
+ 2166  git checkout master
+ 2167  git log --all --graph
+ 2168  git merge test
+ 2169  git log --all --graph
+ 2170  git -all --graph
+ 2171  git log --graph
+ 2172  ls
+ 2173  touch master-3
+ 2174  git add .
+ 2175  git commit -m master-3
+ 2176  git log --all --graph
+ 2177  celar
+ 2178  clear
+ 2179  cd ..
+ 2180  mkdir baranchdelete
+ 2181  cd branchdelete
+ 2182  ls
+ 2183  cd branchdelete/
+ 2184  ls -l
+ 2185  cd baranchdelete
+ 2186  touch a
+ 2187  git init
+ 2188  git add .
+ 2189  git commit -m m1c
+ 2190  git log --all --graph
+ 2191  git brach dev
+ 2192  git log --all --graph
+ 2193  touch aa
+ 2194  git add .
+ 2195  git commit -m rrrr
+ 2196  git branch dev
+ 2197  git checkout dev
+ 2198  git log --all --graph
+ 2199  git checkout master
+ 2200  git log --all --graph
+ 2201  git branch -d dev
+ 2202  git log --all --graph
+ 2203  git rebase -i 5c539b59de686a9fe4ae954bdc12462ef3707018
+ 2204  git log --all --graph
+ 2205  git rebase -i 5c539b59de686a9fe4ae954bdc12462ef3707018
+ 2206  git rebase -i de0dc3046c7abaa19adbcb38508a50f6947c299b
+ 2207  git rebase -i de0dc3046c7abaa19adbcb38508a50f6947c299b -m aa
+ 2208  git log --all --graph
+ 2209  cat $history>komutlar.txt
+ 2210  cat komutlar.txt 
+ 2211  history > komutlar.txt
